@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/logtous/github-actions-test/issues"
   },
-  "homepage": "https://github.com/logtous/github-actions-test#readme"
+  "homepage": "https://github.com/logtous/github-actions-test#readme",
+  "publishConfig": {
+     "@logtous:registry": "https://npm.pkg.github.com"
+   }
 }
